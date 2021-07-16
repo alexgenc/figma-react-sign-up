@@ -1,4 +1,4 @@
-# Figma to React Design
+# Figma to React Sign Up Form
 
 This is a React sign up form built from an already existing Figma design.
 
